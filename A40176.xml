@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to friends by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40176</idno><idno type="EEBO-CITATION">11327587</idno>
+  <idno type="VID">47479</idno>
+  <idno type="EEBO-PROQUEST">2240895346</idno>
+  
+            <idno type="STC">Wing F1810</idno>
+            <idno type="STC">ESTC R30473</idno>
+            <idno type="OCLC">11327587</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to friends by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication supplied by Wing.</note>
+                  <note>Dated at end: Swarthmore in Lancashire the 30th of the 11th moneth, 1678.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47479:1"/>
+            <pb n="1" facs="tcp:47479:1"/>
+            <head>AN EPISTLE TO FRIENDS</head>
+            <byline>By <hi>G. F.</hi>
+            </byline>
+            <opener>
+               <salute>My Dear Friends,</salute>
+            </opener>
+            <p>VVHose Faces are set towards <hi>Sion,</hi> from this Dunghilly World of Vanity and Vexation of Spirit; the Glory, Com<g ref="char:EOLhyphen"/>fort and Pleasures of it pass away; they that have more or less of it, and they that enter into it, enter into Trouble; and when they are in it, it is a great Trouble to come out of it, and to be a Fool for Christ's sake, who is not of this World, but of the World that hath no end: And therefore you must believe in the Light, Grace and Truth, that cometh from him, in the Inward Parts or Heart, which di<g ref="char:EOLhyphen"/>recteth your Minds to Christ, from whence this
+<pb n="2" facs="tcp:47479:2"/>comes, and to unite to him that is Heavenly, who saith, <hi>Seek the Kingdom of God first, and the Righteous<g ref="char:EOLhyphen"/>ness of this Kingdom,</hi> then all outward things will be added to them that have found the Kingdom of God, that stands in Righteousness over Unrighteousness; and it stands in the Power of God, over the Power of the Devil, and before he was, and it standeth in Peace and Joy in the Holy Ghost, over all the Un<g ref="char:EOLhyphen"/>clean Ghosts or Unholy Spirits; and the good Seed are the Children of this Kingdom, which is Ever<g ref="char:EOLhyphen"/>lasting.</p>
+            <p>And take heed of your Wills, and give not way to them, but give way to the Power and Spirit of God, which crucifieth it; and keep it under the Cross of Christ, so that your Inward Man may be re<g ref="char:EOLhyphen"/>newed, and the Old <hi>Adam</hi> put off, so that the Day Light of Jesus Christ may be seen, which <hi>Abraham</hi> rejoyced to see, and so do they that be of the Faith of <hi>Abraham,</hi> the Gift of God, that see the Son of Righteousness shine in their Hearts, to nourish that which God hath there planted, who watereth it with the living Water of the Word, his living Plant: And here is Water in your own Wells, that you may drink out of your own Wells or Cisterns, and to have Grapes off their own Vines, from which they may have the new Wine in their new Bottles to glad and chear their Hearts with the Grapes and Wine from the Heavenly Branch of the Heavenly Vine, which the Lord doth husband; and this must every one of God's People feel.</p>
+            <p>For what is the matter that all the World is of so many Wayes since the Apostles dayes? because they
+<pb n="3" facs="tcp:47479:2"/>are out of Christ, the Way, the new and living Way, which is over all the dead ways, which was set up above sixteen hundred years ago.</p>
+            <p>And why have they so many Religions? because that they be out of the pure and undefiled Religion before God, which was set up above sixteen hundred years ago, which Religion keeps from the spots of the World; and then this Religion must be above the World, that keepeth from the spots; and they that are gone from this Religion, into them of their own making, tell people, that <hi>They must not be Per<g ref="char:EOLhyphen"/>fect here,</hi> and <hi>must carry a Body of Death with them to the Grave;</hi> and others say, that <hi>They must have a Purga<g ref="char:EOLhyphen"/>tory when they are dead:</hi> And this Doctrine is contra<g ref="char:EOLhyphen"/>ry to the Apostles, who said, that <hi>They were cleansed by the Blood of Jesus, and washed by the Water of the Word;</hi> and this Blood and Water God's People must feel within, to wash and cleanse their Hearts, Souls, Minds and Consciences; <hi>Their Hearts and Consciences spin<g ref="char:EOLhyphen"/>kled</hi> (as the Apostle saith) <hi>with the Blood of Jesus from their Dead Works, to serve the Living God:</hi> for many may take of the Blood of Jesus without them in their dead Works, not serving the living God, their Hearts and Consciences being not sprinkled with the Blood of Jesus; and they must feel it within as well as without. If they have Life, they eat his Flesh and drink his Blood, if they do live by him that is hea<g ref="char:EOLhyphen"/>venly and spiritual, the Second <hi>Adam,</hi> the Lord from Heaven: For they have drunk long enough into old <hi>Adam</hi>'s unclean spirit, which is the Cause that they are so many Bodies, and do vex and quench the good Spirit, and resist the Holy Ghost, which should bap<g ref="char:EOLhyphen"/>tize
+<pb n="4" facs="tcp:47479:3"/>them all into one Body (that is) to plunge down all Sin and Evil that is got up by Transgression, and burn that up which is Chaff or Corruption, and so to drink into one Spirit, as the Apostles and Chur<g ref="char:EOLhyphen"/>ches did in the primitive Times, &amp; fore have the same Fellowship and Unity in the holy Spirit of Christ as they had, to wit, in Christ Jesus, who was and is the holy Head of his Church, and his Elect in him; and <hi>Jerusalem</hi> that is above is the Mother of all such; and such do worship God as Christ taught above six<g ref="char:EOLhyphen"/>teen hundred years ago, in Spirit and in Truth.</p>
+            <p>So all must come to the Spirit and the Truth in their Hearts and Souls if they do know the God of Truth, who is a Spirit, and must worship him in Spi<g ref="char:EOLhyphen"/>rit and in the Truth, in which holy Spirit and Truth the unclean spirit and him that is out of the Truth cannot come: So all Will-worshippers, and Dragon and Beast and False Worshippers, are out of this holy Spirit and Truth in which the pure and holy God is worshipped; and as all that did eat of the Passover in the old Covenant were to be Circumcised in the Flesh, so are all in the new Covenant to be Circumci<g ref="char:EOLhyphen"/>sed with the Spirit, by putting off the Body of the sins of the Flesh, that came upon Man by Transgression, if they will feed on Christ their heavenly Sacrifice; for the old Covenant of Circumcision was held in the Flesh, and then they did seed upon the natural Sacrifices; but the new Covenant is held in the Grace, Light and Spirit, by which they are circumcised, and so do feed on their heavenly Sacrifice: for in the old Covenant they were not to eat the Blood of Beasts or any Blood; but in the new Covenant Christ tells
+<pb n="5" facs="tcp:47479:3"/>you, <hi>Except ye do eat his Flesh, and do drink his Blood, you have no Life in him:</hi> for as by <hi>Adam</hi> and <hi>Eve,</hi> their eating that which God forbad, came Death; so if <hi>Adam</hi> and <hi>Eve</hi>'s Sons and Daughters have Life again, it is by eating that which Christ commands: and as by eating came Death; so by eating cometh Life, and not by talking, no, not by talking of the Son of God; for all Reprobates may do so; for the Apostle faith, <hi>If Christ be not in you, ye are Reprobates;</hi> and <hi>he that hath not the Son of God, hath not Life;</hi> and <hi>he that hath the Son of God, hath Life;</hi> and the Saints did con<g ref="char:EOLhyphen"/>fess the Son of God was come, and had given them an Understanding, and they were in him; and they were to walk as he walked, and not only to talk as he talked; for there are too many Talkers, and few Walkers in Christ, my desire is there may be more.</p>
+            <p>And the Lord God Almighty strengthen you in your inward Man, and over all give you Dominion in the Seed of Life, which bruiseth the Head of the Serpent (that brought Death and a Curse) and this Seed bringeth the Blessings, in which all Nations are blessed; and out of this Seed they are not blessed, though they may profess all the words of this good Seed; and if they be not in it, they have not the Blessing in it; and they that be in this, their Blessings and Peace flow as a River from the Rock and Foun<g ref="char:EOLhyphen"/>dation of Life, that standeth sure, which all the Pro<g ref="char:EOLhyphen"/>phets, Apostles and sanctified Ones did and do build upon, who is their Life and Salvation.</p>
+            <p>So feel the Stone that is cut out of the Mountain without hands, which must become a great Moun<g ref="char:EOLhyphen"/>tain,
+<pb n="6" facs="tcp:47479:4"/>and fill the whole Earth, which hath a Kingdom that is everlasting, which except a man be born again, he neither can see it, nor enter into his Kingdom.</p>
+            <p>And my Desire is, that you in your measures may be preserved to the Lord, and know what he doth re<g ref="char:EOLhyphen"/>quire of you, to love Mercy, and to do Justly, and to walk Humbly with God; for the more the Lord gi<g ref="char:EOLhyphen"/>veth, the more he requires, and the less that he gives, the less he requires, who will judge the world in Righteousness according to the Gospel preached in every Creature, shewing that there is something of God in every Creature that shall answer his Judg<g ref="char:EOLhyphen"/>ment: And therefore my desire is, that all may be faithful to what the Lord hath made known unto them by his Grace and Truth, Light, Power &amp; Spirit, and then the Lord will supply them with more; to whom be Glory and Praise, who is the Creator of all, through Jesus Christ, by whom all things were made; <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>G. G.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>And <hi>Dear Friends;</hi>
+               </salute>
+            </opener>
+            <p>MY Love to you all in the Seed of Life and Peace, which floweth as a River, &amp; bruiseth the Head of the Serpent, that hath brought Death &amp; Darkness, Wo, Misery and Imperfection upon and in man; &amp; in this Seed Christ is all Nati<g ref="char:EOLhyphen"/>ons blessed and elected, and out of it is the Curse and Reproba<g ref="char:EOLhyphen"/>tion; and out of this Seed are all the <hi>false Religions, false Wayes, false Worships</hi> and <hi>false Churches</hi> or <hi>Bodies without Heads,</hi> like so many Monsters, which the seed of the Serpent hath brought forth since the Apostles dayes, and then they have made them Heads <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Bodies or Churches; and when one is fallen off, then ano<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her they make, and set it upon the Body or Church, having lost <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd gone from the true Head, Christ.</p>
+            <pb n="7" facs="tcp:47479:4"/>
+            <p> And sometimes the Members do fall out about making a Head for their Body, so that the Members do destroy one another: Now this Monstrous Body is brought in by this <hi>evil seed</hi> in such as are gone from Light, Grace, Truth, Power &amp; Spirit, that cometh from Christ, the Heavenly Head, in whom dwelleth the fulness of Divinity: and they are never like to come to the true Head, Christ, but by coming to the Light, Grace, Truth, Pow<g ref="char:EOLhyphen"/>er, Faith and Spirit of Jesus, which cometh from him, and turneth to him again (the Head) and so to hold him their Head, by which all the Members are coupled together by Joynts &amp; Bands, which do receive their Nourishment from him their Head, who doth supply every Member with Life everlasting from him that is a<g ref="char:EOLhyphen"/>live, and liveth for evermore.</p>
+            <p>And since such have gone from the Light, Grace, Truth Spi<g ref="char:EOLhyphen"/>rit and Power of Jesus in this Night of Apostacy, they have gone from that which cometh from the Head, Christ, and which should joyn to him. And therefore in this <hi>night of Apostacy</hi> there have been many <hi>Bodies</hi> without the true <hi>Head,</hi> which have made so many <hi>Heads,</hi> and set them upon their <hi>Bodies,</hi> and when <hi>they</hi> are gone, they do make <hi>more;</hi> and the Beast, Dragon, Wolves and False Worships or Bodies, without the true Head, Christ, being out of the Grace, Truth, Light, Power, Faith and Spirit which the Apostles were in, they have brought forth so many monstrous Bodies without Heads, till they have made Heads for them; and when one is gone, they do make another. And therefore all must come to the Grace, Truth, Power, Spirit and Faith that co<g ref="char:EOLhyphen"/>meth from Jesus, if that they do come to Jesus from whence it cometh, and so hold him their Head, which Head all things were made by, so is First and Last, Beginning and Ending; <hi>Halelujah.</hi>
+            </p>
+            <p>And my desires are, that all may be in their services for Christ, Men and Women, in his Grace, Truth, Light, Power and Spirit, that from him they may all have their <hi>Penney,</hi> who doth reward every Man and Woman according to their Works, and not stand idle chaffering in the Market-place.</p>
+            <p>So with my Love in the Lord, the Creator of all, and in the Lord Jesus Christ, by whom was all, and is over all, the First and Last, a living Rock and Foundation for all the Living to build
+<pb n="8" facs="tcp:47479:5"/>upon that are quickned by him, &amp; do believe in his Light, which is the Life in Christ, the <hi>Word, by whom all things were made,</hi> and so are grafted into Christ, the <hi>living Tree, that never withereth;</hi> and so from him the <hi>green Tree</hi> every Graft doth receive its <hi>nou<g ref="char:EOLhyphen"/>rishment,</hi> that is grafted into him; and so the living <hi>Root</hi> doth bear every branch, and nourishes it, that it may bring forth Fruit to the Praise of God over all, blessed forever.</p>
+            <p>And this is the <hi>Tree whose Leaf never fadeth, nor Fruit faileth; but its Fruit feedeth all the Living, and the Leaves thereof heal the Nations:</hi> and this <hi>Tree</hi> stands in the midst of God's Garden, who saith, <hi>In the midst of thy Church will I sing Praise,</hi> which are living Stones, a spiritual Houshold of Faith, Elect and Precious, the Church of the living God, written in Heaven; so <hi>Holiness becomes the House of the Lord.</hi> And therefore the Lord doth require more from <hi>Friends</hi> than all other people, because he hath given more to them; and so all people do expect more from <hi>Friends</hi> than all other people, in answering that of God in them all in Truth and in Righteousness, Holiness and Godliness; for <hi>ye are the Lights of the World, and the Salt of the Earth to season it:</hi> so all must glorisie the Lord God in their Lives &amp; Conversations with their Bodies, Spirits &amp; Souls, which are Christ's, who has bought them and cleansed them with his Blood and the pure Water of his Word, who makes them sanctified Vessels of his Mercy for his Glory; therefore none must dishonour the Lord.</p>
+            <p>And therefore my Desires are, that you may all be valiant for the Truth upon the Earth; and keep up all your Men and Wo<g ref="char:EOLhyphen"/>mens Meetings in the Lord's Power, the Gospel, which hath brought Life and Immortality to light, and it will preserve you in Life and in Immortality over him that hath darkned you; and in this all will see their Work and Services for the Lord God and his Son Christ Jesus, in that which hath brought Life and Immor<g ref="char:EOLhyphen"/>tality to light, which <hi>Gospel</hi> is an <hi>everlasting perfect Fellowship</hi> and <hi>Order,</hi> which will stand when all others are gone; all the Saints that do enjoy this, cannot but praise the Lord, and sing Praises to him forever and ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>G F.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:47479:5"/>
+            <p>THe Apostle saith, <hi>If any wan be in Christ, he is a new crea<g ref="char:EOLhyphen"/>ture; old things are passed away, behold all things are be<g ref="char:EOLhyphen"/>come new,</hi> 2 Cor. 5.17.</p>
+            <p>So they that are in Christ, are new creatures; and they that be in old <hi>Adam,</hi> are old creatures, and are in their old things, old Wayes, old Worships and old Religions, and have the old Garments, and are the old Bottles, that hold the old Wine, and cannot endure the new; and have the old, rusty, month eaten Treasure. And they that be in Christ, the heavenly and spiri<g ref="char:EOLhyphen"/>tual second <hi>Adam,</hi> who maketh all things new, are new crea<g ref="char:EOLhyphen"/>tures, and spiritual men, and heavenly minded, and are new Bottles, that hold the new Wine and the new heavenly Treasure, and have the new Cloathing, the fine Linnen, the Righteous<g ref="char:EOLhyphen"/>ness of Christ, and are in the new and living Way, over all the dead Wayes; and they are in the new Worship, which Christ set up above 1600. years ago, which is in the Spirit and in the Truth, in which holy Spirit and holy Truth the holy God is worshipped; and this was new to both <hi>Jews</hi> and <hi>Gentiles,</hi> and it is new to all the apostate <hi>Christians,</hi> which are not in the holy Spirit and Truth that the Apostles were in. And this new crea<g ref="char:EOLhyphen"/>ture in Christ hath a new Religion, which is pure and undefiled, and keepeth from the Spots of the World: and this Religion is new to the <hi>Iews</hi> and <hi>Gentiles,</hi> and all the apostatized <hi>Christians</hi> that plead for a Body of death and sin to the Grave, and a Pur<g ref="char:EOLhyphen"/>gatory when they are dead. And they that be in Christ are new Creatures, and they have a new Head, who is the Head of all things, the first born of every Creature, and the first begot<g ref="char:EOLhyphen"/>ten from the dead, who is alive, and liveth for evermore, who bruiseth the Serpent's head, who hath made things old, but Christ maketh all things new; and they that be in him, are new Creature; &amp; they that be out of Christ, be the old Creatures in old <hi>Adam,</hi> and these old Creatures are doting about their old things, and their old Bottles, old Wine, old Garments, and are doting about their old Wayes, old Religions and old Worships, and persecuting one another with their old carnal
+<pb n="10" facs="tcp:47479:6"/>Weapons, these old Creatures, which dote about their old Worships, Religions and Wayes; so that one old Creature falleth out with another old Creature, so that these old doting Creatures in old <hi>Adam,</hi> out of Christ the second <hi>Adam,</hi> do wrestle with flesh and blood about their old Wayes, Religions and Worships: And these old doting Creatures (which be out of Christ the Saviour) do destroy one another about their old Wayes, Worships, Religions and Churches: And these old Creatures, that be out of Christ the Head, are Monstrous Bo<g ref="char:EOLhyphen"/>dies without a Head, till that they have made one, and then the old Creatures set it upon their Body, which Head (as the old Creatures think) doth pardon their Sins; and when this their Head is fallen off their Body, then they do make another, and set it on their old Creature's Body: But they that are in Christ, are new Creatures, and Christ is their Head, who is their Redeemer, Sanctifier &amp; Saviour, who is alive, and liveth for evermore, and walk in Christ, the second <hi>Adam,</hi> who is heavenly and spiritual. And the old Creatures, out of Christ, their Walk is in old <hi>A<g ref="char:EOLhyphen"/>dam,</hi> who is natural and carnal; and so that old Creature's Weapons and Armour, that he defendeth his old Ways, Church, Religion and Worship with, are carnal (and not Spiritual) by which they kill one another; and the old Creatures do study or dote which way they may destroy or imprison, persecute or banish, spoil or torture the Righteous or new Creatures in Christ. And they that be in Christ are new Creatures, their Weapons and Armour are spiritual, and they do not wrestle with flesh and blood, but spiritual wickedness and rulers of darkness in high places, and bring down imaginations and high thoughts, as Christ (whom those new creatures are in) teach<g ref="char:EOLhyphen"/>eth them, who saith, that <hi>He came not to destroy mens lives, but to save them;</hi> and rebuked such as would have had mens Lives destroyed, and told them, that <hi>they did not know what spirit they were of:</hi> So it is clear, that the old creatures, that be out of Christ, which destroy mens Lives about their old Wayes, Churches, Religions, and their old Worships, do not know what spirit they are of; and therefore if they do not know what Spirit they are of, whether it be a good spirit or a bad one, they do not know, and yet people must conform to that Way,
+<pb n="11" facs="tcp:47479:6"/>Religion, Worship and Church that this old creature, that is out of Christ, hath set up, or else he will persecute them or de<g ref="char:EOLhyphen"/>stroy their Lives, though Christ saith, <hi>they do not know what spirit they are of:</hi> And is not this hard, to conform to that which the old creatures have made and set up, which do not know their own spirits, nor what spirit they be of? And there<g ref="char:EOLhyphen"/>fore were not those Doctrines, Ordinances, Traditions and Rudiments of the world the old creatures, which they did and do dote after, which the new creatures in Christ Jesus were not to taste, touch nor to handle, for they did perish with the using? And are not all the Will-worships, and the Beasts and Dragons Worships, the old creatures, that be out of Christ, bearing the Mark of the Beast in their Hand or Forehead? And they that be in Christ, which be new creatures, have their Fathers Mark or Name in their Fore-heads, and worship the Ho<g ref="char:EOLhyphen"/>ly, Pure and Living God in Spirit and in Truth. And it was the old creatures that made Images and Idols, and such make them now, and worship them: But they that are in Christ, are new creatures, and are renewed up into the Image of God, and worship him in his holy Spirit and Truth, God that liveth for<g ref="char:EOLhyphen"/>ever, <hi>Amen.</hi>
+            </p>
+            <p>And these cannot touch, taste nor handle the old creatures Images, Idols, Doctrines, Ordinances, Traditions or Rudi<g ref="char:EOLhyphen"/>ments of the World, which are the old creatures, in old <hi>Adam,</hi> which doth touch, taste and handle them: but the new crea<g ref="char:EOLhyphen"/>ture cannot, who is in Christ, the express Image of the Father; and he maketh his new creatures like himself. <hi>Moses</hi> made <hi>Servants of God</hi> in Law or old Testament, but <hi>Christ</hi> made Sons in the new Testament; for <hi>as many as received Christ, he gave them power to become the Sons of God.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Swarthmore,</hi> in <hi>Lancashire,</hi>
+                  <date>the 30th of the 11th Moneth, 1678.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
